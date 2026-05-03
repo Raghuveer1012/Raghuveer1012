@@ -58,8 +58,8 @@ I'm a **fresher developer** from 🇮🇳 India who loves turning ideas into rea
 
 | 🚀 Project | 📝 Description | 🛠️ Tech |
 |-----------|---------------|---------|
-| [👟 Shoes Project](https://github.com/Raghuveer1012/shoes-project) | A slick shoe showcase website | HTML, CSS |
-| [☀️ Solar Project](https://github.com/Raghuveer1012/solar-project) | Solar system / energy themed site | HTML, CSS |
+| [👟 Shoes Project](https://github.com/Raghuveer1012/shoes-project) | A slick shoe showcase website | HTML, CSS , DJANGO |
+| [☀️ Solar Project](https://github.com/Raghuveer1012/solar-project) | Solar system / energy themed site | HTML, CSS , DJANGO |
 | [👔 Brioni Fashion](https://github.com/Raghuveer1012/brioni-fashion) | Fashion brand landing page | HTML, CSS |
 
 > More coming soon... I'm cooking 🍳
